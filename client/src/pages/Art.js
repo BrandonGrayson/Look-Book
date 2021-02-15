@@ -9,8 +9,8 @@ function Art() {
 
     const styles = {
         img: {
-            maxHeight: "200px",
-            masWidth: "200px"
+            maxHeight: "250px",
+            masWidth: "250px"
         }
     }
 
